@@ -1,0 +1,14 @@
+{
+  "ignore": [
+    ".git",
+    ".vagrant",
+    ".vscode",
+    "node_modules"
+  ],  
+  "projects": {
+    "rcn-diaspore-sdk": "git@github.com:ripio/rcn-diaspore-sdk.git",
+    "rcn-diaspore-abi-wrappers": "git@github.com:ripio/rcn-diaspore-abi-wrappers.git",
+    "marmo-diaspore-abi-wrappers": "git@github.com:ripio/marmo-diaspore-abi-wrappers.git",
+    "rcn-diaspore-contract-artifacts": "git@github.com:ripio/rcn-diaspore-contract-artifacts.git"
+  }
+}
